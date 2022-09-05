@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=C6BBB7&height=300&section=header&text=Welcome&fontSize=90&desc=Ahreum's%20Github%20Profile&descAlign=60&descAlignY=20)
-
 ## _An aspiring Backend Developer_
 백엔드와 블록체인을 공부하고 있습니다
  
