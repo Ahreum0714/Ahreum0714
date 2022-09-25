@@ -1,4 +1,3 @@
-## _An aspiring Backend Developer_
 백엔드와 블록체인을 공부하고 있습니다
  
 ##### 📫 Email | yalin7145@gmail.com
